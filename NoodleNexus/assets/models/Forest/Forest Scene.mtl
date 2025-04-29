@@ -1,0 +1,84 @@
+# Blender 4.1.0 MTL File: 'Forest Scene.blend'
+# www.blender.org
+
+newmtl Bark
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 5 2 1 C:/Users/grnwt/Downloads/Forest_Scene_blend/Textures/Bark/Bark_06_basecolor.jpg
+map_Bump -s 5 2 1 -bm 2.000000 C:/Users/grnwt/Downloads/Forest_Scene_blend/Textures/Bark/Bark_06_normal.jpg
+
+newmtl Bark.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 7.8 4.9 1 C:/Users/grnwt/Downloads/Forest_Scene_blend/Textures/Bark/Bark_06_basecolor.jpg
+map_Bump -s 7.8 4.9 1 -bm 5.000000 C:/Users/grnwt/Downloads/Forest_Scene_blend/Textures/Bark/Bark_06_normal.jpg
+
+newmtl Leaves
+Ns 0.189378
+Ka 1.000000 1.000000 1.000000
+Ks 0.325688 0.325688 0.325688
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd C:/Users/grnwt/Downloads/Forest_Scene_blend/Textures/Leaf.png
+map_d C:/Users/grnwt/Downloads/Forest_Scene_blend/Textures/Leaf.png
+
+newmtl Log
+Ns 0.000000
+Ka 0.394495 0.394495 0.394495
+Ks 0.816514 0.816514 0.816514
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/grnwt/Downloads/Forest_Scene_blend/Textures/Log.jpg
+
+newmtl Red
+Ns 500.586578
+Ka 0.795796 0.795796 0.795796
+Kd 0.610497 0.002505 0.007956
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Silver
+Ns 714.255066
+Ka 0.832494 0.832494 0.832494
+Kd 0.404353 0.404353 0.404353
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Terrain
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/grnwt/Downloads/Forest_Scene_blend/Textures/Grass.jpg
+
+newmtl Wood_3
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2

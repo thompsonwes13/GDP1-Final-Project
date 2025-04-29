@@ -1,0 +1,4 @@
+SkySphere
+Position - x: 87.0529 y: 0.427768 z: -54.3446
+Rotation - x: 0 y: 0 z: 0
+Scale - 1

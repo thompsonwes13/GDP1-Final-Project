@@ -1,0 +1,24 @@
+﻿  AddModelsToScene.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  1 of 2803 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+cPhysXWraper.lib(PxPvd.obj) : warning LNK4099: PDB '' was not found with 'cPhysXWraper.lib(PxPvd.obj)' or at ''; linking object as if no debug info
+cPhysXWraper.lib(ExtDefaultCpuDispatcher.obj) : warning LNK4099: PDB '' was not found with 'cPhysXWraper.lib(ExtDefaultCpuDispatcher.obj)' or at ''; linking object as if no debug info
+cPhysXWraper.lib(ExtDefaultErrorCallback.obj) : warning LNK4099: PDB '' was not found with 'cPhysXWraper.lib(ExtDefaultErrorCallback.obj)' or at ''; linking object as if no debug info
+cPhysXWraper.lib(ExtSimpleFactory.obj) : warning LNK4099: PDB '' was not found with 'cPhysXWraper.lib(ExtSimpleFactory.obj)' or at ''; linking object as if no debug info
+cPhysXWraper.lib(PxPvdDefaultSocketTransport.obj) : warning LNK4099: PDB '' was not found with 'cPhysXWraper.lib(PxPvdDefaultSocketTransport.obj)' or at ''; linking object as if no debug info
+cPhysXWraper.lib(ExtRigidBodyExt.obj) : warning LNK4099: PDB '' was not found with 'cPhysXWraper.lib(ExtRigidBodyExt.obj)' or at ''; linking object as if no debug info
+cPhysXWraper.lib(ExtDefaultSimulationFilterShader.obj) : warning LNK4099: PDB '' was not found with 'cPhysXWraper.lib(ExtDefaultSimulationFilterShader.obj)' or at ''; linking object as if no debug info
+cPhysXWraper.lib(PxPvdImpl.obj) : warning LNK4099: PDB '' was not found with 'cPhysXWraper.lib(PxPvdImpl.obj)' or at ''; linking object as if no debug info
+cPhysXWraper.lib(ExtCpuWorkerThread.obj) : warning LNK4099: PDB '' was not found with 'cPhysXWraper.lib(ExtCpuWorkerThread.obj)' or at ''; linking object as if no debug info
+cPhysXWraper.lib(ExtConvexCoreExt.obj) : warning LNK4099: PDB '' was not found with 'cPhysXWraper.lib(ExtConvexCoreExt.obj)' or at ''; linking object as if no debug info
+cPhysXWraper.lib(PxPvdDataStream.obj) : warning LNK4099: PDB '' was not found with 'cPhysXWraper.lib(PxPvdDataStream.obj)' or at ''; linking object as if no debug info
+cPhysXWraper.lib(PxPvdObjectModelMetaData.obj) : warning LNK4099: PDB '' was not found with 'cPhysXWraper.lib(PxPvdObjectModelMetaData.obj)' or at ''; linking object as if no debug info
+cPhysXWraper.lib(PxPvdObjectRegistrar.obj) : warning LNK4099: PDB '' was not found with 'cPhysXWraper.lib(PxPvdObjectRegistrar.obj)' or at ''; linking object as if no debug info
+cPhysXWraper.lib(PxPvdMemClient.obj) : warning LNK4099: PDB '' was not found with 'cPhysXWraper.lib(PxPvdMemClient.obj)' or at ''; linking object as if no debug info
+cPhysXWraper.lib(PxProfileEventImpl.obj) : warning LNK4099: PDB '' was not found with 'cPhysXWraper.lib(PxProfileEventImpl.obj)' or at ''; linking object as if no debug info
+cPhysXWraper.lib(PxPvdProfileZoneClient.obj) : warning LNK4099: PDB '' was not found with 'cPhysXWraper.lib(PxPvdProfileZoneClient.obj)' or at ''; linking object as if no debug info
+  NoodleNexus.vcxproj -> C:\Users\grnwt\Downloads\Fanshawe\GDP202425 (pre shadows)\NoodleNexus\x64\Release\NoodleNexus.exe

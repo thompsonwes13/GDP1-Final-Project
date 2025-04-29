@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+NoodleNexus/lib/Debug/AssimpFileHelper.lib filter=lfs diff=lfs merge=lfs -text
+NoodleNexus/lib/Debug/cPhysXWraper.lib filter=lfs diff=lfs merge=lfs -text
+x64/Debug/AssimpFileHelper.lib filter=lfs diff=lfs merge=lfs -text
+x64/Release/PhysXGpu_64.dll filter=lfs diff=lfs merge=lfs -text
+AssimpFileHelper/lib/assimp/VS22vc143x64static/Debug/assimp-vc142-mtd.lib filter=lfs diff=lfs merge=lfs -text
+x64/Debug/cPhysXWraper.lib filter=lfs diff=lfs merge=lfs -text

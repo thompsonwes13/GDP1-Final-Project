@@ -1,0 +1,19 @@
+Light 1 Point ON
+x: 0.0 y: 9.5 z: 1.0
+Linear: 0.0573342 Quadratic: 0.0502404
+
+Light 2 Spot ON
+x: -73.3 y: -16.8 z: 2.1
+Linear: 0.00469647 Quadratic: 0.00036973
+
+Light 3 Point ON
+x: 0 y: 125 z: 0
+Linear: 0.0027334 Quadratic: 0.0020240
+
+Light 4 Point ON
+x: 11.0 y: 2.0 z: 0.0
+Linear: 0.0973342 Quadratic: 0.0902404
+
+Light 5 Point ON
+x: -10.49 y: 6.0 z: 7.0
+Linear: 0.773342 Quadratic: 0.702404

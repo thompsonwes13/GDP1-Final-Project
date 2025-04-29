@@ -1,0 +1,47 @@
+# Blender 4.1.0 MTL File: 'Wooden_assets.blend'
+# www.blender.org
+
+newmtl Clean_wood
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd BLEND_Wooden_assets/Chair/Textures/4K/Dirt/Chair_Dirt_4K_Albedo.png
+map_Ns BLEND_Wooden_assets/Chair/Textures/4K/Dirt/Chair_Dirt_4K_Roughness.png
+map_Bump -bm 1.000000 BLEND_Wooden_assets/Chair/Textures/4K/Dirt/Chair_Dirt_4K_Normal.png
+
+newmtl Material.003
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd BLEND_Wooden_assets/Barrel/Textures/4K/Dirt_and_Rast/Barrel_Dirt_and_Rast_4K_Albedo.png
+map_Ns BLEND_Wooden_assets/Barrel/Textures/4K/Dirt_and_Rast/Barrel_Dirt_and_Rast_4K_Roughness.png
+map_refl BLEND_Wooden_assets/Barrel/Textures/4K/Dirt_and_Rast/Barrel_Dirt_and_Rast_4K_Metallic.png
+map_Bump -bm 1.000000 BLEND_Wooden_assets/Barrel/Textures/4K/Dirt_and_Rast/Barrel_Dirt_and_Rast_4K_Normal.png
+
+newmtl Material.005
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd BLEND_Wooden_assets/Bench/Textures/4K/Dirt/Bench_Dirt_4K_Albedo.png
+map_Ns BLEND_Wooden_assets/Bench/Textures/4K/Dirt/Bench_Dirt_4K_Roughness.png
+map_Bump -bm 1.000000 BLEND_Wooden_assets/Bench/Textures/4K/Dirt/Bench_Dirt_4K_Normal.png
+
+newmtl Material.006
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd BLEND_Wooden_assets/Table/Textures/4K/Dirt/Table_Dirt_4K_Albedo.png
+map_Ns BLEND_Wooden_assets/Table/Textures/4K/Dirt/Table_Dirt_4K_Roughness.png
+map_Bump -bm 1.000000 BLEND_Wooden_assets/Table/Textures/4K/Dirt/Table_Dirt_4K_Normal.png

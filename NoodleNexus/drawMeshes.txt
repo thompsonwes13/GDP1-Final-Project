@@ -1,0 +1,7 @@
+Name: SkySphere
+Path: assets/models/Sphere_radius_1_xyz_N_uv.ply
+isWireFrame: false
+Colour: 255 255 255
+Transparency: 1.0
+Texture: wood_floor_texture_01.bmp 1.0
+

@@ -11,4 +11,4 @@ Click + Drag: Move camera
 +/-: Scale LOD distance
 X: Toggle 'X-Ray' view
 
-![Uploading spidey looking at scooby snacks cropped brighter.png…]()
+![spidey looking at scooby snacks cropped brighter](https://github.com/user-attachments/assets/78d9b5ac-f417-463c-bd60-bbc59a1d6499)
